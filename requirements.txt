@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+openai
+httpx
+pydantic
+email-validator
+python-dotenv
+qdrant-client
+sentence-transformers
+aiosmtplib
+uvicorn[standard]
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+langchain-openai
+faiss-cpu
